@@ -21,7 +21,7 @@ textline: The Sense Tree provides aromatherapy and reflexology services
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
