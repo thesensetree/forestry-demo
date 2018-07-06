@@ -16,6 +16,12 @@ services:
     the biotechnology sector.
   heading: Reflexology
   icon: "/uploads/2017/11/13/biotech.png"
+- heading: Reiki
+  description: ''
+  icon: ''
+- heading: Indian Head Massage
+  description: ''
+  icon: ''
 sub_heading: Aromatherapy & Relaxation
 textline: The Sense Tree provides aromatherapy and reflexology services
 hero_button:
