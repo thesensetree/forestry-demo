@@ -10,7 +10,7 @@ partners:
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Aromatherapy Massage
+  heading: Aromatherapy
   icon: "/uploads/2018/07/06/AromatherapyIcon.PNG"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
