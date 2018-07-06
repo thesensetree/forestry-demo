@@ -14,7 +14,7 @@ services:
   icon: "/uploads/2018/07/06/AromatherapyIcon.PNG"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
+  heading: Reflexology
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Aromatherapy & Relaxation
 textline: The Sense Tree provides aromatherapy and reflexology services
