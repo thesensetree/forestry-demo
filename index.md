@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/07/06/thesensetree_test03.jpg"
 layout: landing-page
 heading: The Sense Tree
 partners:
@@ -10,8 +10,8 @@ partners:
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+  heading: Aromatherapy Massage
+  icon: "/uploads/2018/07/06/AromatherapyIcon.PNG"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
