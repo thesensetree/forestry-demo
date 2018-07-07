@@ -18,7 +18,7 @@ services:
   icon: "/uploads/2017/11/13/biotech.png"
 - heading: Reiki
   description: ''
-  icon: ''
+  icon: "/uploads/2018/07/07/icon-reiki-1.png"
 - heading: Indian Head Massage
   description: ''
   icon: ''
