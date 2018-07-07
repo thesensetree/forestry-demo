@@ -11,7 +11,7 @@ services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Aromatherapy
-  icon: "/uploads/2018/07/06/AromatherapyIcon.PNG"
+  icon: "/uploads/2018/07/07/icon-aromatherapy.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Reflexology
