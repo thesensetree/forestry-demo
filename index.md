@@ -25,7 +25,7 @@ services:
 sub_heading: Aromatherapy & Relaxation
 textline: The Sense Tree provides aromatherapy and reflexology services
 hero_button:
-  text: Learn more
+  text: Book your appointment
   href: "/about"
 show_news: false
 show_staff: false
