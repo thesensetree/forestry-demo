@@ -21,7 +21,7 @@ services:
   icon: "/uploads/2018/07/07/icon-reiki-1.png"
 - heading: Indian Head Massage
   description: ''
-  icon: ''
+  icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
 sub_heading: Aromatherapy & Relaxation
 textline: The Sense Tree provides aromatherapy and reflexology services
 hero_button:
