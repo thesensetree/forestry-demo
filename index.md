@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/07/06/thesensetree_test03.jpg"
+banner_image: "/uploads/2018/07/08/thesensetree_test04.jpg"
 layout: landing-page
 heading: The Sense Tree
 partners:
