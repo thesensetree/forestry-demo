@@ -9,7 +9,7 @@ collections:
   create: all
   default_front_matter_template: person
 - path: _projects
-  label: Projects
+  label: Services
   create: all
   default_front_matter_template: project
 - path: ''
