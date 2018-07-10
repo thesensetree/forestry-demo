@@ -1,15 +1,15 @@
 ---
-title: Projects
+title: Services
 layout: projects
-description: Projects by Belkirk College
+description: 
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:
     identifier: _projects
-    url: "/projects/"
+    url: "/services/"
     weight: 1
   navigation:
     identifier: _projects
-    url: "/projects/"
+    url: "/services/"
     weight: 3
 ---
