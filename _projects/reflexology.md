@@ -5,7 +5,6 @@ date: 2018-07-10 01:48:47 +0000
 sub_heading: ''
 banner_image: ''
 slug: ''
-published: false
 ---
 Reflexology has been practiced since ancient times in many cultures. There are reflex points in the hands, feet and ears that correspond to every part, gland and organ of the body. By stimulating these points, reflexology releases tensions, improves circulation and helps the natural healing process of the body. It is gentle and safe for any ages. 
 
