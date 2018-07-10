@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: The Sense Tree - Aromatherapy & Relaxation
+short_title: The Sense Tree
+description: Website for thesensetree.com
 baseurl: /forestry-demo
 permalink: "/:path/"
 defaults:
@@ -21,7 +21,7 @@ collections:
     output: true
   projects:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/services/:path/"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
