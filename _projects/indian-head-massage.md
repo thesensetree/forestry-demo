@@ -5,7 +5,6 @@ date: 2018-07-10 02:02:02 +0000
 sub_heading: ''
 banner_image: ''
 slug: ''
-published: false
 ---
 Indian Head Massage is based on the Ayurvedic healing and dates back 4000 years. This massage is ideal for people experiencing neck and shoulder tension, headaches, eye strain or insomnia. Indian head massage is very relaxing and has a balancing effect on the whole body system. 
 
