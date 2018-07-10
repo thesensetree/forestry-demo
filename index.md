@@ -11,15 +11,19 @@ services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Aromatherapy
+  href: /aromatherapy
   icon: "/uploads/2018/07/07/icon-aromatherapy.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Reflexology
+  href: /reflexology
   icon: "/uploads/2018/07/07/icon-reflexology.png"
 - heading: Reiki
+  href: /reiki
   description: ''
   icon: "/uploads/2018/07/07/icon-reiki-1.png"
 - heading: Indian Head Massage
+  href: /indian-head-massage
   description: ''
   icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
 sub_heading: Aromatherapy & Relaxation
