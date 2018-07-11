@@ -7,10 +7,10 @@
     <div class="container">
         <h2>Member of</h2>
         <div>
-            <ul class="slides">
+            <ul class="slides" style="text-align:center;">
                 {% for logo in page.partners %}
-                    <li>
-                        <img src="{{ logo | absolute_url }}" alt="{{ logo }}" />
+                    <li style="display:inline-block;margin-right:30px">
+                        <img style="max-height:150px;" src="{{ logo | absolute_url }}" alt="{{ logo }}" />
                     </li>
                 {% endfor %}
             </ul>
