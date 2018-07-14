@@ -4,26 +4,27 @@ banner_image: "/uploads/2018/07/08/thesensetree_test04.jpg"
 layout: landing-page
 heading: The Sense Tree
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2018/07/11/logo-cfa.png"
+- "/uploads/2018/07/11/logo-rrco.png"
+- "/uploads/2018/07/11/logo-naha.png"
+- "/uploads/2018/07/11/logo-reiki.png"
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Aromatherapy
-  href: /aromatherapy
+  href: "/aromatherapy"
   icon: "/uploads/2018/07/07/icon-aromatherapy.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Reflexology
-  href: /reflexology
+  href: "/reflexology"
   icon: "/uploads/2018/07/07/icon-reflexology.png"
 - heading: Reiki
-  href: /reiki
+  href: "/reiki"
   description: ''
   icon: "/uploads/2018/07/07/icon-reiki-1.png"
 - heading: Indian Head Massage
-  href: /indian-head-massage
+  href: "/indian-head-massage"
   description: ''
   icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
 sub_heading: Aromatherapy & Relaxation
@@ -38,4 +39,5 @@ menu:
     identifier: _index
     url: "/"
     weight: 1
+
 ---
