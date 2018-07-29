@@ -27,3 +27,8 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _projects/indian-head-massage.md
+- _projects/reiki.md
+- _projects/aromatherapy.md
+- _projects/reflexology.md

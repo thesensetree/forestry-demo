@@ -3,22 +3,29 @@ new_page_extension: md
 auto_deploy: true
 admin_path: ''
 webhook_url: 
-collections:
-- path: _people
+sections:
+- type: directory
+  path: _people
   label: People
   create: all
-  default_front_matter_template: person
-- path: _projects
+  match: "**/*"
+  templates:
+  - person
+- type: directory
+  path: _projects
   label: Services
   create: all
-  default_front_matter_template: project
-- path: ''
+  match: "**/*"
+  templates:
+  - project
+- type: jekyll-pages
   label: Pages
   create: all
-- path: _posts
+- type: jekyll-posts
   label: Posts
   create: all
-  default_front_matter_template: post
+  templates:
+  - post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
