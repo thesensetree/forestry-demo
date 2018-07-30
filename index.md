@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/07/08/thesensetree_test04.jpg"
+banner_image: "/uploads/2018/06/29/blur-close-up-depth-of-field-1033922.jpg"
 layout: landing-page
 heading: The Sense Tree
 partners:
