@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/07/31/annie-spratt-40664-unsplash.jpg"
+banner_image: "/uploads/2018/07/31/thesensetree-home-2.png"
 layout: landing-page
 heading: The Sense Tree
 partners:
