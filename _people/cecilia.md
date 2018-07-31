@@ -8,6 +8,5 @@ sub_heading: Founder
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
