@@ -1,0 +1,33 @@
+---
+title: The Sense Tree - Aromatherapy & Relaxation
+short_title: The Sense Tree
+description: Website for thesensetree.com
+baseurl: "/forestry-demo"
+permalink: "/:path/"
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+collections:
+  people:
+    output: true
+    permalink: "/about/:path/"
+  posts:
+    output: true
+  projects:
+    output: true
+    permalink: "/services/:path/"
+jekyll-archives:
+  enabled: all
+  layout: archive
+gems:
+- jekyll-menus
+- jekyll-feed
+- jekyll-archives
+timezone: Etc/UTC
