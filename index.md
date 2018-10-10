@@ -9,7 +9,7 @@ partners:
 - "/uploads/2018/07/11/logo-naha.png"
 - "/uploads/2018/07/11/logo-reiki.png"
 services:
-- description: ''
+- description: Short description of aromatherapy here
   heading: Aromatherapy
   href: "/aromatherapy"
   icon: "/uploads/2018/07/07/icon-aromatherapy.png"
