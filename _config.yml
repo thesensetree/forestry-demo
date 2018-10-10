@@ -1,7 +1,7 @@
 title: The Sense Tree - Aromatherapy & Relaxation
 short_title: The Sense Tree
 description: Website for thesensetree.com
-baseurl: /forestry-demo
+baseurl: /
 permalink: "/:path/"
 defaults:
   - scope:
