@@ -9,7 +9,8 @@ partners:
 - "/uploads/2018/07/11/logo-naha.png"
 - "/uploads/2018/07/11/logo-reiki.png"
 services:
-- description: Short description of aromatherapy here
+- description: Gentle, relaxing and rhythmic massage incorporating the therapeutic
+    use of pure essential oils.
   heading: Aromatherapy
   href: "/aromatherapy"
   icon: "/uploads/2018/07/07/icon-aromatherapy.png"
@@ -67,7 +68,7 @@ services:
     assist your body eliminating toxins and removes negative and stagnant energies'
   icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
 sub_heading: Aromatherapy & Relaxation
-textline: The Sense Tree provides aromatherapy and reflexology services
+textline: The Sense Tree provides mobile holistic services
 hero_button:
   text: Book your appointment
   href: "/about"
