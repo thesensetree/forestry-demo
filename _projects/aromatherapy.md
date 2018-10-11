@@ -2,7 +2,8 @@
 title: Aromatherapy
 tags: []
 date: 2018-07-10 01:41:45 +0000
-sub_heading: ''
+sub_heading: Gentle, relaxing and rythmic massage incorporating the therapeutic use
+  of pure essential oils.
 banner_image: ''
 slug: ''
 
