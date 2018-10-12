@@ -12,12 +12,6 @@ menu:
     weight: 4
 
 ---
-## Hours of Operation
-
-* **Monday-Friday**, 8:00am to 6:00pm
-* **Saturdays**, 8:00am to 5:00pm
-* **Sundays**, 9:00am to 12:00pm
-
 ## Message us
 
 <form method="POST" action="https://formspree.io/info@thesensetree.com">
