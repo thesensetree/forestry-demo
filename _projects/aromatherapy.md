@@ -2,8 +2,8 @@
 title: Aromatherapy
 tags: []
 date: 2018-07-10 01:41:45 +0000
-sub_heading: Gentle, relaxing and rhythmic massage incorporating the therapeutic use
-  of pure essential oils.
+sub_heading: "“The way to health is to have an aromatic bath and scented massage every
+  day”  Father of medicine, Hippocrates"
 banner_image: ''
 slug: ''
 
