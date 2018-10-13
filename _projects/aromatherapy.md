@@ -10,7 +10,7 @@ slug: ''
 ---
 Aromatherapy Massage
 
-Our aromatherapy massage is adapted from the routine developed in the 1940's by French biochemist, a pioneer in aromatherapy,  Marguerite Maury. 
+Our aromatherapy massage is adapted from the routine developed in the 1940's by French biochemist, a pioneer in aromatherapy,  Marguerite Maury.
 
 It is a gentle and holistic approach to the therapeutic use of pure essential oils. The oils are diluted in nourishing carrier oils to detoxify the body and improve health via external application. Essential oils are absorbed through the skin during the massage. By focusing on pressure points along the spine, it stimulates the nervous system and promotes lymphatic drainage.The oil is applied in long sweeping strokes warming the skin and muscles and preparing the body for a deep relaxation massage. In addition, inhaling essential oil vapours has psychological effects by gently stimulating various parts of the brain.
 
@@ -34,6 +34,4 @@ The initial appointment includes an aromatherapy consultation and massage, appro
 
 Clients are advised to drink plenty of water before and after massage in order to fully benefit from the massage. It is recommended to leave the oil on your body for 12-24 hours. Therefore it is recommended to shower or bathe prior to the appointment. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification and flush out the toxins. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
 
-**_“The way to health is to have an aromatic bath and scented massage every day”_**
-
-* **_Father of medicine, Hippocrates_**
+**Pricing: 60 mins $100, plus transportation fee**
