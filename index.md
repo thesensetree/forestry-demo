@@ -24,7 +24,8 @@ services:
   icon: "/uploads/2018/07/07/icon-reiki-1.png"
 - heading: Indian Head Massage
   href: "/indian-head-massage"
-  description: Traditional natural healing of India
+  description: 'Traditional natural healing of India, relaxes and stimulates the brain
+    and central nervous system. '
   icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
 sub_heading: Relax, Rejuvenate, Revive your senses
 textline: The Sense Tree provides mobile holistic services
