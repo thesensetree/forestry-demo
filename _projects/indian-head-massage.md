@@ -50,4 +50,4 @@ You should not book this treatment if you have any of the following conditions:
 * Diabetes if not under control
 * A history of embolism or thrombosis
 
-**45 mins $60, plus transportation fee**
+**A treatment is approximately 45 mins,  $60 plus transportation fee**
