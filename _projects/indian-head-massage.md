@@ -2,11 +2,13 @@
 title: Indian Head Massage
 tags: []
 date: 2018-07-10 02:02:02 +0000
-sub_heading: ''
+sub_heading: Ayurvedic natural healing, releases tensions in the head, neck, face
+  and shoulders.
 banner_image: ''
 slug: ''
+
 ---
-Indian Head Massage is based on the Ayurvedic healing and dates back 4000 years. This massage is ideal for people experiencing neck and shoulder tension, headaches, eye strain or insomnia. Indian head massage is very relaxing and has a balancing effect on the whole body system. 
+Indian Head Massage is based on the Ayurvedic healing and dates back 4000 years. This massage is ideal for people experiencing neck and shoulder tension, headaches, eye strain or insomnia. Indian head massage is very relaxing and has a balancing effect on the whole body system.
 
 ### Main benefits of Indian Head Massage:
 
@@ -24,7 +26,7 @@ Indian Head Massage is based on the Ayurvedic healing and dates back 4000 years.
 
 Clients are advised to come in casual and comfortable clothing, preferably a t-shirt for the top. The client will be fully clothed and sitting on a chair for the treatment. The therapist will perform soothing, relaxing and stimulating techniques throughout the massage. The treatment includes a small amount of aromatherapy oil blend for the scalp, about ¼ teaspoon.This relaxation massage focus on the face, head, neck, shoulders, upper back and upper arms. These are the important energy centers within the body. You will feel a sense of calm and uplifted after the session. It also relieves you physically and emotionally from daily stresses. You will feel the lightness of  your neck and shoulders.
 
-The treatment is around 60 mins, includes a consultation and massage. 
+The treatment is around 60 mins, includes a consultation and massage.
 
 ### After treatment
 
