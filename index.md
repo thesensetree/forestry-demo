@@ -28,7 +28,8 @@ services:
     and central nervous system. '
   icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
 sub_heading: Relax, Rejuvenate, Revive your senses
-textline: The Sense Tree provides mobile holistic services
+textline: 'The Sense Tree brings holistic natural healing to your home. Balancing
+  your body, mind & soul. '
 hero_button:
   text: Book your appointment
   href: https://app.shedul.com/online_bookings/156708/link
