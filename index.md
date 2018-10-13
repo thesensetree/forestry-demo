@@ -26,7 +26,7 @@ services:
   href: "/indian-head-massage"
   description: Traditional natural healing of India
   icon: "/uploads/2018/07/08/icon-indian-head-massage.png"
-sub_heading: Aromatherapy & Relaxation
+sub_heading: Relax, Rejuvenate, Revive your senses
 textline: The Sense Tree provides mobile holistic services
 hero_button:
   text: Book your appointment
