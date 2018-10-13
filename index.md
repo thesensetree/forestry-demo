@@ -32,7 +32,7 @@ textline: 'The Sense Tree brings holistic natural healing to your home. Balancin
   your body, mind & soul. '
 hero_button:
   text: Book your appointment
-  href: https://app.shedul.com/online_bookings/156708/link
+  href: "/booking"
 show_news: false
 show_staff: false
 menu:
