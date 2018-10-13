@@ -14,7 +14,7 @@ services:
   heading: Aromatherapy
   href: "/aromatherapy"
   icon: "/uploads/2018/07/07/icon-aromatherapy.png"
-- description: 'Gentle pressure point of the feet '
+- description: Gentle pressure point revitalize the body
   heading: Reflexology
   href: "/reflexology"
   icon: "/uploads/2018/07/07/icon-reflexology.png"
