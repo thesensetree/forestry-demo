@@ -24,7 +24,7 @@ During the treatment, the client will be on a massage table or a reclining chair
 
 You will feel very relaxed and your feet light as if you’re walking on clouds.
 
-The appointment is 60 mins,  includes a consultation and massage.
+The appointment is approximately 60 mins.
 
 ### After treatment
 
