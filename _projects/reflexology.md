@@ -29,3 +29,5 @@ The appointment is approximately 60 mins.
 ### After treatment
 
 Clients are advised to drink plenty of water before and after massage in order to fully benefit from the massage. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
+
+**60 mins $70**
