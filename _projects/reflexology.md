@@ -2,7 +2,8 @@
 title: Reflexology
 tags: []
 date: 2018-07-10 01:48:47 +0000
-sub_heading: ''
+sub_heading: 'Reflexology is more than a massage, it stimulates the reflex points
+  of gland or organ in the body.  '
 banner_image: ''
 slug: ''
 
