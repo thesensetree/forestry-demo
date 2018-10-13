@@ -30,7 +30,7 @@ sub_heading: Aromatherapy & Relaxation
 textline: The Sense Tree provides mobile holistic services
 hero_button:
   text: Book your appointment
-  href: "/about"
+  href: https://app.shedul.com/online_bookings/156708/link
 show_news: false
 show_staff: false
 menu:
