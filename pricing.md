@@ -11,7 +11,13 @@ published: false
 ---
 ## Massage services
 
-Aromatherapy massage
+Aromatherapy massage - $100 for 60 minutes
+
+Reflexology - $70 for 60 minutes
+
+Reiki - $80 for 60 minutes
+
+Indian Head Massage - $65 for 45 minutes
 
 ## Travel Fee
 
