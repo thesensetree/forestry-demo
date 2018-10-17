@@ -9,7 +9,7 @@ menu:
   navigation:
     identifier: _contact
     url: "/contact/"
-    weight: 4
+    weight: 5
 
 ---
 ## Message us

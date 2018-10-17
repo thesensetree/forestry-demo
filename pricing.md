@@ -6,6 +6,11 @@ sub_heading: ''
 tags: []
 banner_image: ''
 related_posts: []
+menu:
+  navigation:
+    weight: 4
+  footer:
+    weight: 3
 
 ---
 ## Massage services
