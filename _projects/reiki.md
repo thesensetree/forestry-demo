@@ -2,8 +2,8 @@
 title: Reiki
 tags: []
 date: 2018-07-10 02:01:09 +0000
-sub_heading: 'Removes stagnant energy, nourish your body, mind & soul with loving
-  positive universal energy. '
+sub_heading: 'Removes stagnant energies, nourish your body, mind & soul with loving
+  positive universal energies. '
 banner_image: ''
 slug: ''
 
