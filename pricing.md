@@ -23,6 +23,14 @@ Reiki - $80 for 60 minutes
 
 Indian Head Massage - $65 for 45 minutes
 
+Blissful package:
+
+Indian Head Massage and Reflexology 90 mins $120
+
+Indian Head Massage and Reiki 90 mins $130
+
+Reflexology and Reiki 90 mins $135
+
 ## Travel Fee
 
 We mainly operate in the West end of Mississauga (green zone) but we're happy to serve you outside of that area.
