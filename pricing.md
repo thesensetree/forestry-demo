@@ -25,11 +25,11 @@ Indian Head Massage - $65 for 45 minutes
 
 Blissful package:
 
-Indian Head Massage and Reflexology 90 mins $120
+Indian Head Massage and Reflexology $120 for 90 minutes
 
-Indian Head Massage and Reiki 90 mins $130
+Indian Head Massage and Reiki $130 for 90 minutes
 
-Reflexology and Reiki 90 mins $135
+Reflexology and Reiki $135 for 90 minutes 
 
 We also provide couple massages, service for events such as birthday parties, gatherings, corporate events etc. Please email for more information. 
 
