@@ -31,12 +31,16 @@ Indian Head Massage and Reiki 90 mins $130
 
 Reflexology and Reiki 90 mins $135
 
+We also provide couple massages, service for events such as birthday parties, gatherings, corporate events etc. Please email for more information. 
+
+ 
+
 ## Travel Fee
 
 We mainly operate in the West end of Mississauga (green zone) but we're happy to serve you outside of that area.
 
-Inside green zone - starting at Zone 1- $25, Zone 2 - $35 
+Inside green zone - $25
 
-Outside green zone - progressive fee from $35 depending on distance
+Outside green zone - progressive fee from $25 depending on distance
 
 ![](/uploads/2018/10/16/travel-zone1.PNG)
