@@ -27,8 +27,8 @@ Indian Head Massage - $65 for 45 minutes
 
 We mainly operate in the West end of Mississauga (green zone) but we're happy to serve you outside of that area.
 
-Inside green zone - flat fee $15
+Inside green zone - starting at Zone 1- $25, Zone 2 - $35 
 
-Outside green zone - progressive fee from $20 depending on distance
+Outside green zone - progressive fee from $35 depending on distance
 
 ![](/uploads/2018/10/16/travel-zone1.PNG)
