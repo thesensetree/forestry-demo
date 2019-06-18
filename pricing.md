@@ -31,6 +31,10 @@ Indian Head Massage and Reiki $140 for 90 minutes
 
 Reflexology and Reiki $155 for 90 minutes
 
+_*3 sessions 10% OFF_*
+
+_*When you refer our services to your friend or family, both you will receive 10% off on the next session_*
+
 We also provide couple massages, service for events such as birthday parties, gatherings, corporate events etc. Please email for more information.
 
 ## Travel Fee
