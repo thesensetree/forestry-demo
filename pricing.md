@@ -15,21 +15,21 @@ menu:
 ---
 ## Massage services
 
-Aromatherapy massage - $100 for 60 minutes
+Aromatherapy massage - $80 for 60 minutes
 
-Reflexology - $80 for 60 minutes
+Reflexology - $65 for 45 minutes
 
-Reiki - $90 for 60 minutes
+Reiki - $80 for 60 minutes
 
 Indian Head Massage - $65 for 45 minutes
 
 Blissful package:
 
-Indian Head Massage and Reflexology $130 for 90 minutes
+Indian Head Massage and Reflexology $120 for 90 minutes
 
-Indian Head Massage and Reiki $140 for 90 minutes
+Indian Head Massage and Reiki $135 for 90 minutes
 
-Reflexology and Reiki $155 for 90 minutes
+Reflexology and Reiki $135 for 90 minutes
 
 _*3 sessions 10% OFF_*
 
