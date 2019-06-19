@@ -21,7 +21,7 @@ Main benefits of Reiki:
 
 **What to expect**
 
-During your Reiki treatment, the practioner’s hands will alternate between gentle contact and moving above your body. You will be fully clothed for the treatment and on a massage table or sitting on a chair.
+During your Reiki session, the practioner’s hands will alternate between gentle contact and moving above your body. You will be fully clothed for the treatment and on a massage table or sitting on a chair.
 
 **After treatment**
 
