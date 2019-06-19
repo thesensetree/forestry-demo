@@ -30,8 +30,8 @@ Clients are advised to come in casual and comfortable clothing, without any make
 
 The initial appointment includes an aromatherapy consultation and massage, approximately 90 mins. Following treatments will be 60 mins.
 
-**After treatment**
+**After session**
 
 Clients are advised to drink plenty of water before and after massage in order to fully benefit from the massage. It is recommended to leave the oil on your body for 12-24 hours. Therefore it is recommended to shower or bathe prior to the appointment. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification and flush out the toxins. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
 
-**A treatment is approximately 60 mins, $100 (plus transportation fee outside of green zone)**
+**A session is approximately 60 mins, $100 (plus transportation fee outside of green zone)**
