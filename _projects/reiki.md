@@ -10,7 +10,7 @@ slug: ''
 ---
 **Reiki**
 
-Reiki means ‘ Universal Life force Energy’, promotes physical and emotional healing and allows the body to heal. Reiki treats the person as a whole,  mind and soul to achieve an overall balance. Reiki not only removes stagnant energies, it also fills you with the positive and healing energy. It is safe and gentle for any ages.
+Reiki means ‘ Universal Life force Energy’, promotes physical and emotional healing and allows the body to heal. Reiki treats the person as a whole,  mind, body and soul to achieve an overall balance. Reiki not only removes stagnant energies, it also fills you with the positive and healing energy. It is safe and gentle for any ages.
 
 Main benefits of Reiki:
 
