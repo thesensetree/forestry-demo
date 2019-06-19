@@ -1,7 +1,7 @@
 ---
 title: Reiki
 tags: []
-date: 2018-07-10 02:01:09 +0000
+date: '2018-07-10T02:01:09.000+00:00'
 sub_heading: 'Removes stagnant energies, nourish your body, mind & soul with loving
   positive universal energies. '
 banner_image: ''
@@ -27,4 +27,4 @@ During your Reiki treatment, the practioner’s hands will alternate between gen
 
 Clients are advised to drink plenty of water before and after session in order to fully benefit from the treatment. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification and flush out the toxins. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
 
-**The appointment is 60 mins, $80 plus transportation fee**
+**The appointment is 60 mins, $90 (plus transportation fee outside of green zone)**
