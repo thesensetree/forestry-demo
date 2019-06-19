@@ -28,7 +28,7 @@ Clients are advised to come in casual and comfortable clothing, preferably a t-s
 
 The treatment is around 60 mins, includes a consultation and massage.
 
-### After treatment
+### After Session
 
 Clients are advised to drink plenty of water before and after massage in order to fully benefit from the massage. It is recommended to leave the oil on your scalp for 12-24 hours. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification and flush out the toxins. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies
 
@@ -50,4 +50,4 @@ You should not book this treatment if you have any of the following conditions:
 * Diabetes if not under control
 * A history of embolism or thrombosis
 
-**A treatment is approximately 45 mins,  $70 (plus transportation fee outside of green zone)**
+**A session is approximately 45 mins,  $70 (plus transportation fee outside of green zone)**
