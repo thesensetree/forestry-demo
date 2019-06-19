@@ -15,21 +15,21 @@ menu:
 ---
 ## Massage services
 
-Aromatherapy massage - $80 for 60 minutes
+Aromatherapy massage - $100 for 60 minutes
 
-Reflexology - $65 for 45 minutes
+Reflexology - $80 for 60 minutes
 
-Reiki - $80 for 60 minutes
+Reiki - $90 for 60 minutes
 
-Indian Head Massage - $65 for 45 minutes
+Indian Head Massage - $70 for 45 minutes
 
 Blissful package:
 
-Indian Head Massage and Reflexology $120 for 90 minutes
+Indian Head Massage and Reflexology $140 for 90 minutes
 
-Indian Head Massage and Reiki $135 for 90 minutes
+Indian Head Massage and Reiki $150 for 90 minutes
 
-Reflexology and Reiki $135 for 90 minutes
+Reflexology and Reiki $160 for 90 minutes
 
 _*3 sessions 10% OFF_*
 
@@ -41,8 +41,6 @@ We also provide couple massages, service for events such as birthday parties, ga
 
 We mainly operate in the West end of Mississauga (green zone) but we're happy to serve you outside of that area.
 
-Inside green zone - $25
-
-Outside green zone - progressive fee from $25 depending on distance
+Outside green zone - additional fees depending on distance
 
 ![](/uploads/2018/10/16/travel-zone1.PNG)
