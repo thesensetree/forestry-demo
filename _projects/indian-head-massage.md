@@ -1,7 +1,7 @@
 ---
 title: Indian Head Massage
 tags: []
-date: 2018-07-10 02:02:02 +0000
+date: '2018-07-10T02:02:02.000+00:00'
 sub_heading: Ayurvedic natural healing, releases tensions in the head, neck, face
   and shoulders.
 banner_image: ''
@@ -50,4 +50,4 @@ You should not book this treatment if you have any of the following conditions:
 * Diabetes if not under control
 * A history of embolism or thrombosis
 
-**A treatment is approximately 45 mins,  $60 plus transportation fee**
+**A treatment is approximately 45 mins,  $70 (plus transportation fee outside of green zone)**
