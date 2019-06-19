@@ -1,7 +1,7 @@
 ---
 title: Reflexology
 tags: []
-date: 2018-07-10 01:48:47 +0000
+date: '2018-07-10T01:48:47.000+00:00'
 sub_heading: 'Reflexology is more than a massage, it stimulates the reflex points
   of gland or organ in the body.  '
 banner_image: ''
@@ -28,4 +28,4 @@ You will feel very relaxed and your feet light as if you’re walking on clouds.
 
 Clients are advised to drink plenty of water before and after massage in order to fully benefit from the massage. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
 
-**The appointment is approximately 60 mins, $70 plus transportation fee**
+**The appointment is approximately 60 mins, $70 (plus transportation fee outside of green zone)**
