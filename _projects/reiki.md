@@ -21,10 +21,10 @@ Main benefits of Reiki:
 
 **What to expect**
 
-During your Reiki session, the practioner’s hands will alternate between gentle contact and moving above your body. You will be fully clothed for the treatment and on a massage table or sitting on a chair.
+During your Reiki session, the practioner’s hands will alternate between gentle contact and moving above your body. You will be fully clothed for the session and on a massage table or sitting on a chair.
 
-**After treatment**
+**After session**
 
-Clients are advised to drink plenty of water before and after session in order to fully benefit from the session. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the treatment. This will allow your body to begin detoxification and flush out the toxins. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
+Clients are advised to drink plenty of water before and after session in order to fully benefit from the session. Intense exercises and other massages should be avoided for the rest of the day. It is also advised to have light meals and avoid alcohol following the session. This will allow your body to begin detoxification and flush out the toxins. Taking a Dead Sea salt bath with essential oils the following day relaxes and revitalize your body and mind. Dead Sea salt bath will assist your body eliminating toxins and removes negative and stagnant energies.
 
 **The appointment is 60 mins, $90 (plus transportation fee outside of green zone)**
