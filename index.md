@@ -31,7 +31,7 @@ sub_heading: Relax, Rejuvenate, Revive your senses
 textline: |-
   The Sense Tree brings holistic natural healing to your home.
 
-  Balancing your body, mind & soul.
+  Balancing your body, mind & spirit.
 hero_button:
   text: Book your appointment
   href: "/booking"
